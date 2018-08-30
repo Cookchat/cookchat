@@ -1,0 +1,42 @@
+Web App Development
+
+Technologies
+
+	Programming Language/IDE (Jave/Eclipse)
+	Relational Database (MariaDB)
+	Build automation tool (Maven)
+	Application Framework (Spring Framework/Spring Boot)
+	Object-relational database management system (Hibernate)
+	Database connectivity (JDBC)
+	Online Repository/Version control service (Git/Github)
+	Automation server (Jenkins) Deployment
+	Web Browser Automation (Selenium)
+	Unit Testing (JUnit)
+	Web Server(Apache/Tomcat)
+	Web Host(Namecheap/GoDaddy/Dreamhost)
+	
+Project Ideas
+
+	Blog/Forum
+	Recipe Book
+	Expense Logbook
+	Live Chat
+	
+Resources
+
+	To be shared in skype group
+	
+	
+Questions/Topics/Things to do for next discussion
+
+	Creating an architecture design for the project
+	Getting the required technology installed/Getting access to the required technologies:
+		Sharing Github accounts/Creating Github repository
+		Install/Create Jenkins environment
+		Install DB environment
+	Research all technologies for atleast ground level understanding
+	
+Decisions
+	Recipe book idea
+	Rotating roles on modules
+	
